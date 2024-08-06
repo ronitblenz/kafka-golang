@@ -25,7 +25,7 @@ kafka-golang/
 1. **Clone the repository:**
 
    ```sh
-   git clone 
+   git clone https://github.com/ronitblenz/kafka-golang.git
    cd kafka-golang
    ```
 
