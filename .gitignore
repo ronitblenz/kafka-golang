@@ -39,7 +39,7 @@ docker-compose.override.yml
 .env
 
 # Go modules
-go.sum
+*/go.sum
 
 # Other
 .DS_Store
