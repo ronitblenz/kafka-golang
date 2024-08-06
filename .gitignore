@@ -1,0 +1,45 @@
+# Golang specific
+bin/
+pkg/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Dependency directories
+vendor/
+vendor/*
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Temporary files
+*.log
+*.tmp
+
+# Editor specific files
+.idea/
+*.swp
+*.swo
+.vscode/
+*.bak
+
+# Docker specific
+docker-compose.override.yml
+.env
+
+# Go modules
+go.sum
+
+# Other
+.DS_Store
